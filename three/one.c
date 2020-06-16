@@ -1,4 +1,4 @@
-// Using stacks, validate a given string containing params:
+// Using stacks, validate a given string containing parentheses:
 // "(()()(()))"" -> VALID
 // "((())))" -> INVALID
 #include <stdlib.h>
